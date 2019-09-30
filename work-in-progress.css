@@ -1,0 +1,29 @@
+body{
+	background-image: url("photo/fond.jpg");
+	background-size: cover;
+}
+.immages:hover{
+	opacity: 1;
+}
+.immages{
+    
+	display: flex;
+	width: 3%;
+	height: 3%;
+	margin-left: 23%;
+	opacity:0.5;
+}
+img{
+	width: 900%;
+}
+.titre{
+
+	text-align: center;
+	margin-top: 4%;
+	font-size: 240%;
+}
+.soustexte{
+	text-align: center;
+	margin-top: 5%;
+	font-size: 130%;
+}
