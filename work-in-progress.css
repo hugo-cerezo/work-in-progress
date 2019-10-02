@@ -1,12 +1,14 @@
 body{
-	background-image: url("photo/fond.jpg");
+	background-image: url("photo/mario.jpg");
+	background-repeat: no-repeat;
 	background-size: cover;
 }
 .immages:hover{
 	opacity: 1;
 }
 .immages{
-    
+
+    background-color: grey;
 	display: flex;
 	width: 3%;
 	height: 3%;
